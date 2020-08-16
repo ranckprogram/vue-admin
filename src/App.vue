@@ -13,9 +13,6 @@ export default {
   },
   created () {
     console.log(1);
-    // console.log(22);
-    // const a = 1
-
   }
 }
 </script>
